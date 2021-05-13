@@ -14,7 +14,7 @@ Enter Point 2, x coordinate: 2 <--- (user input)
 Enter Point 2, y coordinate: 2 <--- (user input)
 
 
-You can also run using any ide. source code is attached in zip. 
+You can also run using any ide.
 
 1. Open project in any ide(eclipse, intellij)
 2. Run maven clean, install
